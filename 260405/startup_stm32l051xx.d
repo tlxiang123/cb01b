@@ -1,1 +1,0 @@
-stm32l051c8t6_usart1\startup_stm32l051xx.o: startup_stm32l051xx.s
