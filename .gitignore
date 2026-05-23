@@ -1,0 +1,47 @@
+# Keil / MDK-ARM build artifacts
+MDK-ARM/260405/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+*.lst
+
+# Object files
+*.o
+*.obj
+*.crf
+*.d
+*.dep
+*.iex
+*.lnp
+*.map
+*.sct
+*.htm
+*.build_log.htm
+
+# VS Code
+.vscode/
+
+# Executables / Binaries
+*.exe
+*.bin
+*.hex
+*.elf
+*.axf
+
+# Debug files
+*.pdb
+*.dbgconf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*~
